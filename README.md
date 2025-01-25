@@ -63,7 +63,7 @@ Before running the project, make sure you have Python 3.7 or higher installed. Y
 The AI is powered by:
 - **Deep Q-Learning**: A reinforcement learning algorithm that helps the agent learn by interacting with the game environment.
 - **PyTorch**: Used to train the neural network that guides the AI.
-![Snake Game AI in action (graph)](images/graph_game_ai.jng)
+![Snake Game AI in action (graph)](images/graph_game_ai.jpg)
 
 This project helped me get hands-on experience with AI and game development, and it was a great way to dive into deep learning concepts.
 
